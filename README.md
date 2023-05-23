@@ -29,6 +29,6 @@ Me gusta aprender cosas nuevas y compartir mis conocimientos con otros. En mi Gi
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neigood&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="neigood" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neigood&show_icons=true&locale=en&theme=tokyonight" alt="neigood" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=neigood&&theme=tokyonight" alt="neigood" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neigood&&theme=tokyonight" alt="neigood" /></p>
 
 
