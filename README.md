@@ -1,6 +1,9 @@
 ![https://github.com/neigood](https://raw.githubusercontent.com/neigood/neigood/master/neigood_banner.jpeg)
 
 <h1 align="center">Hi 👋, I'm neifer goodson</h1>
+
+Hola, mi nombre es [**Neifer Goodson**](https://www.linkedin.com/in/neifer-goodson) y soy un apasionado de la tecnología. Me dedico al desarrollo web y móvil, utilizando diferentes lenguajes y herramientas como HTML, CSS, JavaScript, React, y SQL. Me gusta aprender cosas nuevas y compartir mis conocimientos con otros. En mi GitHub podrás encontrar algunos de mis proyectos personales y colaborativos, donde aplico lo que voy aprendiendo y experimento con nuevas ideas. Espero que te guste mi trabajo y que podamos conectar en el futuro.
+
 <h3 align="center">A passionate developer from Chile</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
