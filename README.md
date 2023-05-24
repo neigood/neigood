@@ -2,9 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm neifer goodson</h1>
 
-Hola, mi nombre es [**Neifer Goodson**](https://www.linkedin.com/in/neifer-goodson) y soy un apasionado de la tecnología. Me dedico al desarrollo web, utilizando diferentes lenguajes y herramientas como HTML, CSS, JavaScript, React, y SQL. 
+Hello, my name is [**Neifer Goodson**](https://www.linkedin.com/in/neifer-goodson) and I am passionate about technology. I am dedicated to web development, using different languages and tools such as HTML, CSS, JavaScript, React, and SQL.
 
-Me gusta aprender cosas nuevas y compartir mis conocimientos con otros. En mi GitHub podrás encontrar algunos de mis proyectos personales y colaborativos, donde aplico lo que voy aprendiendo y experimento con nuevas ideas. Espero que te guste mi trabajo y que podamos conectar en el futuro.
+I like to learn new things and share my knowledge with others. In my GitHub you can find some of my personal and collaborative projects, where I apply what I'm learning and experiment with new ideas. I hope you like my work and that we can connect in the future.
+
+Translated with www.DeepL.com/Translator (free version)
 
 <h3 align="center">A passionate developer from Chile</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
