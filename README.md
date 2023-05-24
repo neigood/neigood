@@ -7,7 +7,7 @@ Hola, mi nombre es [**Neifer Goodson**](https://www.linkedin.com/in/neifer-goods
 Me gusta aprender cosas nuevas y compartir mis conocimientos con otros. En mi GitHub podrás encontrar algunos de mis proyectos personales y colaborativos, donde aplico lo que voy aprendiendo y experimento con nuevas ideas. Espero que te guste mi trabajo y que podamos conectar en el futuro.
 
 <h3 align="center">A passionate developer from Chile</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neigood&label=Profile%20views&color=0e75b6&style=flat" alt="neigood" /> </p>
 
