@@ -1,4 +1,4 @@
-![https://github.com/neigood]([https://raw.githubusercontent.com/neigood/neigood/master/neigood_banner.jpeg](https://dreamwaygames.com/wp-content/uploads/2020/12/programming1.gif))
+![https://github.com/neigood]([https://raw.githubusercontent.com/neigood/neigood/master/neigood_banner.jpeg])
 
 <h1 align="center">Hi 👋, I'm neifer goodson</h1>
 
