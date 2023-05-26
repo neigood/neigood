@@ -47,4 +47,4 @@ I like to learn new things and share my knowledge with others. In my GitHub you 
 <!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neigood&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
-<!--  End Stats Cards -->
+<!--  End Stats  Cards -->
