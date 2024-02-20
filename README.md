@@ -49,5 +49,3 @@ I like to learn new things and share my knowledge with others. In my GitHub you 
 </div>
 <!--  End  Stats  Cards -->
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/neigood) | [<img src="https://th.bing.com/th/id/OIP.Izs230qfX6uXi6ds5FgGCwAAAA?rs=1&pid=ImgDetMain" width=115><br><sub>Ellen Pimentel</sub>]([https://github.com/guilhermeonrails](https://github.com/ellenpimentel)) | [<img src="https://avatars.githubusercontent.com/u/91544872?v=4" width=115><br><sub>Génesys Rondón</sub>](https://github.com/genesysaluralatam) |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------: |
